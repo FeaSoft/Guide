@@ -1,2 +1,1 @@
-# Guide
-FeaSoft quick start guide
+# FeaSoft - Quick start guide
