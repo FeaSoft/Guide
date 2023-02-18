@@ -8,3 +8,9 @@
 
 # .gitattributes file
 !.gitattributes
+
+# LaTeX source files
+!*.tex
+
+# images files
+!*.png
